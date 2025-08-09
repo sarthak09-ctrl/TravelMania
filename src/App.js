@@ -24,19 +24,19 @@ function App() {
       <section id="about" className="section">
         <h2>About Us</h2>
         <p className="about-text">
-          🌐 Welcome to <strong>Wanderlust Travel Agency</strong>, your gateway to
+          Welcome to <strong>TravelMania Travel Agency</strong>, your gateway to
           unforgettable journeys! We are passionate travel enthusiasts dedicated to
           crafting customized travel experiences for adventurers, honeymooners,
           families, and explorers alike.
         </p>
         <p className="about-text">
-          🧭 With over 10 years in the travel industry, we’ve helped more than 50,000
+          With over 10 years in the travel industry, we’ve helped more than 50,000
           travelers explore the most beautiful destinations around the globe. Whether
           you crave tropical beaches, snowy mountains, ancient ruins, or bustling
           cities — we make your travel dreams come true.
         </p>
         <p className="about-text">
-          ✅ Why choose us? Affordable Packages, 24/7 Customer Support, Expert Local
+          <b>Why choose us?</b> Affordable Packages, 24/7 Customer Support, Expert Local
           Guides, and Tailored Itineraries — all crafted just for you!
         </p>
       </section>
